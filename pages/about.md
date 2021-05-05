@@ -12,14 +12,16 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## About the Exhibition
+This is an exhibit created and curated by students in VISA 2P90 (Victorian Visual Culture) at Brock University. 
 
-This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Images from the 19th century are super cool. We should all learn more about them. Yay! 
+What else can I say here? 
+Testing, testing, testing.
 
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
 
-The base site features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+
+The base site features objects from the [Digital Public Library of America] [Digital Collections](https://dp.la/). 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include feature/abouttheabout.md %} 
