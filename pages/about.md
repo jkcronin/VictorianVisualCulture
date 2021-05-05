@@ -19,9 +19,12 @@ Images from the 19th century are super cool. We should all learn more about them
 What else can I say here? 
 Testing, testing, testing.
 
+## Why the 19th Century Was Cool
+1. Photography: Daguerre, Fox Talbot and others rushing to become the first to "fix" an image on a photographic plate. I mean, this is the stuff of drama!
+2. [Have you seen the dresses they wore?](http://www.vam.ac.uk/page/0-9/19th-century-fashion/) 
+3. We start to see the rise of formalized animal advocacy organizations like the [RSPCA in Britain] (https://www.rspca.org.uk/whatwedo/whoweare/history). 
+
 
 
 The base site features objects from the [Digital Public Library of America](https://dp.la/) and the [Wellcome Collection](https://wellcomecollection.org/collections). 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include feature/abouttheabout.md %} 
