@@ -21,7 +21,7 @@ Testing, testing, testing.
 
 
 
-The base site features objects from the [Digital Public Library of America] [Digital Collections](https://dp.la/). 
+The base site features objects from the [Digital Public Library of America](https://dp.la/). 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include feature/abouttheabout.md %} 
