@@ -19,7 +19,6 @@ Images from the 19th century are super cool. We should all learn more about them
 What else can I say here? 
 Testing, testing, testing.
 
-![Interior of a Victorian Home](objects/house.png)
 
 ## Why the 19th Century Was Cool
 1. Photography: [Daguerre, Fox Talbot and others](https://rmc.library.cornell.edu/DawnsEarlyLight/exhibition/daguerretalbot/index.html) rushing to become the first to "fix" an image on a photographic plate. I mean, this is the stuff of drama!
@@ -30,3 +29,4 @@ Testing, testing, testing.
 
 The site features objects from the [Digital Public Library of America](https://dp.la/) and the [Wellcome Collection](https://wellcomecollection.org/collections). 
 
+![Interior of a Victorian Home](objects/house.png)
