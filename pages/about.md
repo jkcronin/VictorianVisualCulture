@@ -19,7 +19,7 @@ Images from the 19th century are super cool. We should all learn more about them
 What else can I say here? 
 Testing, testing, testing.
 
-![Interior of a Victorian Home] (item1)
+![Interior of a Victorian Home](item1)
 
 ## Why the 19th Century Was Cool
 1. Photography: Daguerre, Fox Talbot and others rushing to become the first to "fix" an image on a photographic plate. I mean, this is the stuff of drama!
