@@ -30,4 +30,4 @@ Testing, testing, testing.
 The site features objects from the [Digital Public Library of America](https://dp.la/) and the [Wellcome Collection](https://wellcomecollection.org/collections). 
 
 ![Interior of a Victorian Home](objects/house.png)
-Image Source : Digital Public Library of America
+Image From [The Digital Public Library of America](https://dp.la/)
