@@ -22,7 +22,7 @@ Testing, testing, testing.
 ![Interior of a Victorian Home](/objects/house.png)
 
 ## Why the 19th Century Was Cool
-1. Photography: Daguerre, Fox Talbot and others rushing to become the first to "fix" an image on a photographic plate. I mean, this is the stuff of drama!
+1. Photography: [Daguerre, Fox Talbot and others](https://rmc.library.cornell.edu/DawnsEarlyLight/exhibition/daguerretalbot/index.html)rushing to become the first to "fix" an image on a photographic plate. I mean, this is the stuff of drama!
 2. [Have you seen the dresses they wore?](http://www.vam.ac.uk/page/0-9/19th-century-fashion/) 
 3. We start to see the rise of formalized animal advocacy organizations like the [RSPCA in Britain](https://www.rspca.org.uk/whatwedo/whoweare/history). 
 
